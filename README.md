@@ -39,6 +39,6 @@ main() function:
 Provides a menu for user input to interact with the system
 
 SAMPLE OUTPUT :
+<img width="948" height="573" alt="Screenshot 2025-08-01 164805" src="https://github.com/user-attachments/assets/e9fb6350-94ad-41ae-85c6-3e3deb2109ee" />
 
-image
-📧 Author Vikas Singh 🎓 B.Tech CSE Student @ GNA University 📫 http://www.linkedin.com/in/vikas-singh-696a90374
+Author Vikas Singh 🎓 B.Tech CSE Student @ GNA University 📫 http://www.linkedin.com/in/vikas-singh-696a90374
